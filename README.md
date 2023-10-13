@@ -41,8 +41,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudeep-mjn&" alt="sudeep-mjn" /></p>
 
 <div sytle=" justify-content: space-around; "> 
-    <img  align="left"  alt="Coding" width="400" hight="400" src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.webp">
-    <img  align="right" alt="Coding" width="400" hight="400" src="https://media.tenor.com/10Zdx_RXqgcAAAAC/programming-crazy.gif">
+    <img  align="left"  margin-left="10px" alt="Coding" width="400" hight="400" src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.webp">
+    <img  align="right" margin-right="10px" alt="Coding" width="400" hight="400" src="https://media.tenor.com/10Zdx_RXqgcAAAAC/programming-crazy.gif">
 </div>
 
- <img align="center" alt="Coding" width="400" hight="400" src="https://gifdb.com/images/high/programming-coding-is-fun-fiery-louise-belcher-f76463c1e6wnifej.webp">
+ <img  align="center" alt="Coding" width="400" hight="400" src="https://gifdb.com/images/high/programming-coding-is-fun-fiery-louise-belcher-f76463c1e6wnifej.webp">
