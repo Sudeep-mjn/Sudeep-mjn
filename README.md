@@ -51,4 +51,7 @@
 
  <img  align="center" alt="Coding" width="400" hight="400" src="https://gifdb.com/images/high/programming-coding-is-fun-fiery-louise-belcher-f76463c1e6wnifej.webp">
  
- <img  align="center" alt="Coding" width="400" hight="400" src="https://gifdb.com/gif/hacker-egghead-coding-lj7znezbwb0nuba4.html?embed=true">
+ <img  align="center" alt="Coding" width="400" hight="400" src="https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.webp">
+ 
+ <img  align="center" alt="Coding" width="400" hight="400" src=" https://gifdb.com/images/high/pixelated-programming-with-laptop-zjklhkd7y5bxanaf.webp">
+
