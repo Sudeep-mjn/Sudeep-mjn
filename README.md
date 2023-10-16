@@ -49,7 +49,7 @@
 <div style="display: inline;"> 
 <img  align="left"  margin-left="60px" alt="Coding" width="400" hight="400" src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.webp">
 <img  align="flex-start" margin-right="10px" alt="Coding" width="400" hight="400" src="https://media.tenor.com/10Zdx_RXqgcAAAAC/programming-crazy.gif">
-<img   alt="Coding" width="400" hight="400" src="https://gifdb.com/images/high/programming-coding-is-fun-fiery-louise-belcher-f76463c1e6wnifej.webp"> 
+<img   alt="Coding" width="400" hight="400" padding-right="20px" src="https://gifdb.com/images/high/programming-coding-is-fun-fiery-louise-belcher-f76463c1e6wnifej.webp"> 
 <img  align="display: inline-block;" margin-left="60px"  alt="Coding" width="400" hight="400" src="https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.webp">
 <img style="display: inline-block;"  margin-right="10px" alt="Coding" width="400" hight="400" src="https://gifdb.com/images/high/pixelated-programming-with-laptop-zjklhkd7y5bxanaf.webp">
 
